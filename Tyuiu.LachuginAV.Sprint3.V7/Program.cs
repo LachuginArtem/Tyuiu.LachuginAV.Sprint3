@@ -13,13 +13,13 @@ namespace Tyuiu.LachuginAV.Sprint3.Task1.V7
         {
             DataService dataService = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнил: Лачугин А. В. | АСОиУб-23-2";
+            Console.Title = "Спринт #3 | Выполнил: Лачугин А. В. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Алгоритмы цикличекой структуры                                    *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнил: Лачугин Артём Викторович | АСОиУб-23-2                        *");
+            Console.WriteLine("* Выполнил: Лачугин Артём Викторович | АСОиУб-23-3                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму ряда   *");
